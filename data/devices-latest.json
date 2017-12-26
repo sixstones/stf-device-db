@@ -1,4 +1,37 @@
 {
+  "Redmi_Note_3": {
+    "carrier": {
+      "code": "s",
+      "name": "Softbank"
+    },
+    "cpu": {
+      "cores": 6,
+      "freq": 1.8,
+      "name": "Adreno530"
+    },
+    "date": "2016-01-01T00:00:00.000Z",
+    "display": {
+      "h": 1920,
+      "s": 5.5,
+      "w": 1080
+    },
+    "maker": {
+      "code": "XIAOMI",
+      "name": "XIAOMI"
+    },
+    "memory": {
+      "ram": 6144,
+      "rom": 65536
+    },
+    "name": {
+      "id": "红米 Note 3",
+      "long": "Redmi Note 3"
+    },
+    "os": {
+      "type": "android",
+      "ver": "5.1"
+    }
+  },
   "MI_6": {
     "carrier": {
       "code": "s",
